@@ -1638,13 +1638,13 @@ local function makeTextLabel(text6, textColor3, textSize)
   instance67.TextSize = textSize
 end
 
-makeTextLabel("Dev: FORB1D", v21.White, 14)
+makeTextLabel("Dev: M0NK", v21.White, 14)
 makeTextLabel("Tip: Use ARRHANN V1music and ARRHANN V1 for the best combo!", v21.Grey, 10)
 
 local instance68 = Instance.new("TextLabel", credits)
 instance68.Size = UDim2.new(0.9, 0, 0, 40)
 instance68.BackgroundTransparency = 1
-instance68.Text = "discord: forbiddenway"
+instance68.Text = "discord: supermonkxscripts"
 instance68.TextColor3 = v21.Grey
 instance68.Font = Enum.Font.Gotham
 instance68.TextSize = 10
