@@ -277,7 +277,7 @@ local v25 = {
   "G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^G^",
   "T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_V_T_%_",
   '"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_"HI"_',
-  "[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]_[forbid]",
+  "[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]_[ARHAN]",
   "?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_?sudo_",
   "[check]+[check]+[check]+[check]+[check]+[check]+[check]+[check]+[check]+[check]+[check]+[check]+[check]+[check]+[check]+[check]+[check]+",
   "_A_R_H_A_N__A_R_H_A_N__A_R_H_A_N__A_R_H_A_N__A_R_H_A_N__A_R_H_A_N__A_R_H_A_N__A_R_H_A_N__A_R_H_A_N__A_R_H_A_N_",
@@ -885,7 +885,7 @@ local instance25 = Instance.new("TextLabel", instance24)
 instance25.Size = UDim2.new(0.5, 0, 1, 0)
 instance25.Position = UDim2.new(0, 10, 0, -8)
 instance25.BackgroundTransparency = 1
-instance25.Text = "F0RBID SPAMMER"
+instance25.Text = "ARHANN SPAMMER"
 instance25.TextColor3 = v21.White
 instance25.Font = Enum.Font.GothamBlack
 instance25.TextSize = 18
