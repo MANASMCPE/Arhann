@@ -1,6 +1,6 @@
--- CELESTIAL SYNDICATE | Black Hole Aura UI
--- Cosmetic-only LocalScript. OWNER tag is shown only on your own character
--- when your account username is SUPERMONKXSCRIPTS. No chat spam, kicks, or exploit actions.
+-- FULLY OPEN SOURCE MADE BY MONK
+-- ✌🏻
+-- USE THIS SOURCE TO MAKE IT VIRAL
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
